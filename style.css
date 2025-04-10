@@ -1,0 +1,17 @@
+body{
+	background-color: lavender;
+}
+.container{
+	background-color: purple;
+	padding: 30px;
+	margin: 40px;
+	border-radius: 10px;
+	color: whitesmoke;
+}
+h1{
+	background-color: lavender;
+	margin: 15px;
+	padding: 30px;
+	border-radius: 60px;
+	color: black;
+}
